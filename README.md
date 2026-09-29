@@ -1,7 +1,6 @@
 # Terminal System Status
 
-A single-page fake Linux terminal animation inspired by the provided reference image.
-
+A single-page fake Linux terminal animation.
 ## Files
 
 - `index.html` — page structure

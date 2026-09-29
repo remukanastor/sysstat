@@ -397,7 +397,7 @@
 
     if (command === "about") {
       await sleep(160);
-      addLine("GOV // CINEMATIC TERMINAL V4");
+      addLine("GOV // TERMINAL");
       addLine("Interactive fictional terminal interface.");
       addLine("No real system commands are executed.", "dim");
       addLine("All diagnostic output is simulated.", "dim");

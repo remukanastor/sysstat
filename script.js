@@ -296,7 +296,7 @@
 
     if (command === "whoami") {
       await sleep(150);
-      addLine("root");
+      addLine("user");
       addLine("[WARNING] privileged session detected", "amber");
       return;
     }
